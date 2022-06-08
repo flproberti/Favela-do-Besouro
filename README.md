@@ -1,4 +1,4 @@
-# Favela-do-Besouro
--🗻 Favela addon para servidores de FiveM. 
--🔨 Desenvolvido por: Lil#9587 
--👀 Pré-visualização: https://youtu.be/rizFOSmd8rI 
+# ldevPescador
+- 🐟 Sistema de pescador para vRPEX.
+- 🔨 Desenvolvido por: flproberti#2006
+- 👀 Pré-visualização: https://youtu.be/oOeFd2mvGnA
